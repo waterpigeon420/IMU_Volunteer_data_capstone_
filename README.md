@@ -1,3 +1,4 @@
+Note: For now this app only provides a GUI that connects to a specific IMU sensor from MetaMotion. This sensor was provided by the professor supervising the capstone project and it is not available with me currently. Therefore this app is simply a demonstration of how a BLE sensor SDK was integrated into a react app.
 
 # IMU_Volunteer_data_capstone_
 =======
