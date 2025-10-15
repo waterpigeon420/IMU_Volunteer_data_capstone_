@@ -1,0 +1,10 @@
+{
+  "name": "client_application_v4",
+  "slug": "clientapplicationv4",
+  "extra": {
+    "eas": {
+      "projectId": "64e5f879-1de5-4296-9e52-572a4df1f246"
+    }
+  },
+  "owner": "vidanp"
+}
